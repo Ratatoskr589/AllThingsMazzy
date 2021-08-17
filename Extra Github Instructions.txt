@@ -1,0 +1,7 @@
+The complete mod was too large to upload to Github the normal way. So, here are a few extra instructions for making this mod work.  
+
+-Download the Setup-AllThingsMazzy.exe file and the zipped AllThingsMazzy and Clara files.
+-Unzip AllThingsMazzy and the Clara folder.  
+-Put the unzipped Clara folder inside AllThingsMazzy (in the top level - same level as the ReadMe). 
+-Delete all the zipped files. 
+-Copy the setup file and the newly condensed AllThingsMazzy file into the same folder as your tlk dialog file as per standard mod instructions.
