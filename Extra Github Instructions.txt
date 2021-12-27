@@ -3,7 +3,8 @@ The complete mod was too large to upload to Github the normal way. So, here are 
 -Download the entire mod and these instructions by clicking on the green Code button and then select Download Zip.
 -Unzip the downloaded file. Within AllThingsMazzy 3.05+Russian, open the AllThingsMazzy folder.
 -Don't unzip the 8 zipped files within this folder. Instead, open each zipped file in a new window and copy the folder within back into AllThingsMazzy. 
- The folder should be on the same level as the Setup file and ReadMe. For example, you'll open the zipped Bodhi file and move the folder called Bodhi into AllThingsMazzy. There will then be a zipped and unzipped folder called Bodhi at that level of the mod.
+ The folder should be on the same level as the Setup file and ReadMe. For example, you'll open the zipped Bodhi file and move the folder called Bodhi into AllThingsMazzy. 
+ There will then be a zipped and unzipped folder called Bodhi at that level of the mod.
 -Repeat this for all 8 zipped files
 -Delete all the zipped files. The AllThingsMazzy folder should now look like the screenshot included with the mod.
 -Copy the setup file and the updated AllThingsMazzy folder into the same folder as your tlk dialog file as per standard mod instructions.
